@@ -38,3 +38,12 @@ article {
     padding: 2em;
     width: 700px;
 }
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #001d3d; /* Green */
+    padding: 1em;
+    color: white;
+    text-align: center;
+    bottom: 0;
+}
