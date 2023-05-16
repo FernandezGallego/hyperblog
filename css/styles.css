@@ -27,3 +27,14 @@ button {
     background-color: #008CBA;
     cursor: pointer;
 }
+
+section {
+    background-color: #001d3d; /* Green */
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+article {
+    padding: 2em;
+    width: 700px;
+}
