@@ -27,3 +27,20 @@ button {
     background-color: #008CBA;
     cursor: pointer;
 }
+
+article {
+    background-color: #1a0841; 
+    color: white;
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contain {
+    background-color: #481baa; 
+    padding: 2em;
+    border-radius: 5px;
+}
+
+.text {
+    width: 700px;
+}
