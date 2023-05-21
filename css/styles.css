@@ -7,6 +7,12 @@ h1 {
    color:rgb(16, 1, 28);
 }
 
+.container {
+    z-index: 2;
+    position: relative;
+    top: 50px;
+}
+
 #cabecera {
     padding: 1em;
     color: white;
@@ -49,8 +55,9 @@ footer {
 }
 
 nav {
-    background-color:  rgb(89, 10, 246);; /* Green */
-    border-bottom: 1px solid rgb(89, 10, 246);
+    background-color:  rgb(36, 11, 85); /* Green */
+    position: fixed;
+    border-bottom: 1px solid rgb(36, 11, 85);
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
